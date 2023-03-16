@@ -1,6 +1,6 @@
 {
    "scripts":{
-    "start": "sudo json-server --watch --no-cors db.json"
+    "start": "json-server --watch --no-cors db.json"
    } 
 ,
 "dependencies": {
