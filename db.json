@@ -1,6 +1,6 @@
 {
   "users": [
-   
+    { "email":"helloworld12@gmail.com","id":1,"password":"helloworld12","username":"anurag"}
     
   ],
   "admin":[
